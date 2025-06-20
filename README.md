@@ -1,4 +1,5 @@
 # MeTube
+![metube-logo](https://github.com/user-attachments/assets/09f994fd-5fa2-4292-8097-b310c030eacf)
 
 MeTube is an Android application (`metube.apk`) designed to provide a seamless video streaming and downloading experience, inspired by YouTube but tailored for your own needs. This project leverages modern Android development practices to deliver a smooth, user-friendly interface for browsing, watching, and managing videos on your device.
 
