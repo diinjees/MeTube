@@ -1,4 +1,5 @@
 # MeTube
+![icon](https://github.com/user-attachments/assets/bfc4caf8-8075-4850-ba04-3c3a710dedb4)
 
 MeTube is an Android application (`metube.apk`) designed to provide a seamless video streaming and downloading experience, inspired by YouTube but tailored for your own needs. This project leverages modern Android development practices to deliver a smooth, user-friendly interface for browsing, watching, and managing videos on your device.
 
@@ -29,23 +30,6 @@ MeTube is an Android application (`metube.apk`) designed to provide a seamless v
 ## Screenshots
 
 *(Add screenshots of the app here for a preview of the UI and features.)*
-
-## Building from Source
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/diinjees/MeTube.git
-   ```
-2. Open the project in [Android Studio](https://developer.android.com/studio).
-3. Build and run the app on your device or emulator.
-
-## Dependencies
-
-- Android SDK 24+
-- Kotlin/Java (depending on implementation)
-- ExoPlayer or similar for media playback
-- Retrofit/OkHttp for networking (if applicable)
-- [Other libraries as used in your project]
 
 ## Contributing
 
